@@ -1,0 +1,17 @@
+# ignore images to start
+*.png
+*.xcf
+*.lnk
+game/audio
+game/effects
+game/fonts
+game/img
+game/save
+/py-venv
+
+/Output
+
+# ignore non-free plugins
+/game/js/plugins/VisuMZ_2*
+/game/js/plugins/VisuMZ_3*
+/game/js/plugins/VisuMZ_4*
