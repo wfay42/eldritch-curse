@@ -1,5 +1,7 @@
 [
 null,
 {"id":1,"expanded":false,"name":"MAP001 - Debug","order":1,"parentId":0,"scrollX":547.1111111111111,"scrollY":396.8888888888889},
-{"id":2,"expanded":false,"name":"MAP002","order":2,"parentId":0,"scrollX":0,"scrollY":0,"quick":false}
+{"id":2,"expanded":false,"name":"MAP002 - Book Cave","order":2,"parentId":0,"scrollX":1131,"scrollY":636.5,"quick":false},
+{"id":3,"expanded":false,"name":"MAP003 - Hometown","order":3,"parentId":0,"scrollX":1088,"scrollY":696,"quick":false},
+{"id":4,"expanded":false,"name":"MAP004 - Beatrice House","order":4,"parentId":0,"scrollX":816,"scrollY":624,"quick":false}
 ]
